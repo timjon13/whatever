@@ -1,10 +1,6 @@
 This is art - obviously.
 
 
+	
 
-	^
-       / \
-      /   \
-      |\ /|
-      | X |
-      |/_\|
+

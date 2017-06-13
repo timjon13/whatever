@@ -1,5 +1,8 @@
-small butt (.)
-big butt ( . )
+small butt          (.)
+normal butt        ( . )
+big butt          (  .  )
+confused butt      ( ? )
+
 
   \  \  |||||  /  /
    \  \ (   ) /  /
@@ -12,3 +15,5 @@ big butt ( . )
      /  /   \  \
     /  /     \  \
    /  /       \  \
+
+
